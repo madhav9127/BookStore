@@ -43,7 +43,7 @@ The database consists of three CSV files:
 ---
 
 ## 🔧 Technologies Used
-- SQL (MySQL / PostgreSQL)
+- SQL (Microsoft SQL)
 - CSV Data Handling
 - Relational Database Concepts
 
