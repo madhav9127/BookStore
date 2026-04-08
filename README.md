@@ -88,3 +88,33 @@ The database consists of three CSV files:
 ---
 
 ## 📁 Project Structure
+📦 Online-Bookstore-SQL
+ ┣ 📂 data
+ ┃ ┣ books.csv
+ ┃ ┣ customers.csv
+ ┃ ┗ orders.csv
+ ┣ 📂 queries
+ ┃ ┗ sql_queries.sql
+ ┣ README.md
+
+
+---
+
+## 💡 How to Run
+1. Import CSV files into your SQL database  
+2. Create tables with appropriate schema  
+3. Run the SQL queries  
+4. Analyze the results  
+
+---
+
+## 📈 Future Improvements
+- Add ER Diagram  
+- Build dashboard (Power BI / Tableau)  
+- Optimize query performance  
+- Extend to full-stack application  
+
+---
+
+## ⭐ Support
+If you found this project useful, consider giving it a ⭐ on GitHub!
