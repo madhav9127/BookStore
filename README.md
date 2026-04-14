@@ -108,13 +108,3 @@ The database consists of three CSV files:
 
 ---
 
-## 📈 Future Improvements
-- Add ER Diagram  
-- Build dashboard (Power BI / Tableau)  
-- Optimize query performance  
-- Extend to full-stack application  
-
----
-
-## ⭐ Support
-If you found this project useful, consider giving it a ⭐ on GitHub!
